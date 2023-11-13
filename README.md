@@ -1,5 +1,6 @@
 ### Welcome :)
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **morgan-web/morgan-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
